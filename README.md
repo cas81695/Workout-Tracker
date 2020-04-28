@@ -5,7 +5,7 @@
 
  This is an application that allows the user to create workout plans and exercise while recording their data with mongoose and morgan db.
 
-The app is deployed on Heroku with the link: 
+The app is deployed on Heroku with the link: https://obscure-ridge-91951.herokuapp.com/
 
 ## Table of Content
 
