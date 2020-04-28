@@ -21,9 +21,11 @@ The app is deployed on Heroku with the link:
 
 *[Contribution](#contribution)
 
-/Users/christiansanchez/Desktop/bootcamp/Workout-Tracker/Images/Screen Shot 2020-04-23 at 4.53.53 PM.png
+<img width="1440" alt="Screen Shot 2020-04-23 at 4 53 53 PM" src="https://user-images.githubusercontent.com/58318559/80525354-15de2580-895f-11ea-84c8-dba37e7a429f.png">
 
-/Users/christiansanchez/Desktop/bootcamp/Workout-Tracker/Images/Screen Shot 2020-04-23 at 4.54.23 PM.png
+<img width="1440" alt="Screen Shot 2020-04-23 at 4 54 23 PM" src="https://user-images.githubusercontent.com/58318559/80525308-03fc8280-895f-11ea-910f-39c17b90bce4.png">
+
+
 
 
 ## Installation
